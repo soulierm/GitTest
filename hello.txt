@@ -1,3 +1,7 @@
 Hi there, this is the first thing in my repo!
 
 Now there is some more stuff here!!!
+
+this is where the feature went in the feature branch, this should cause a conflict :/
+
+But git is better than that
