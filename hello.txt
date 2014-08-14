@@ -2,11 +2,12 @@ Hi there, this is the first thing in my repo!
 
 Now there is some more stuff here!!!
 
+this is some new code for a feature that I am doign!!!
+
 this is where the feature went in the feature branch, this should cause a conflict :/
 
 But git is better than that
 
 I am adding some more stuff here on the master branch
 
-
-POOOP
+I am adding some more stuff here on the master branch, but thats OK
